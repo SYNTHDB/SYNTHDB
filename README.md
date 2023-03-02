@@ -1,9 +1,9 @@
 ### 
-This is a responsery for:<br>
-SYNTHDB: Synthesizing Database via Program Analysis for Security Testing of Web Applications<br>
+This is the repository for:<br>
+__SYNTHDB: Synthesizing Database via Program Analysis for Security Testing of Web Applications__<br>
 
 We will release the project very soon<br>
-If you have question, please contact an.chen25@uga.edu<br>
+If you have question, please contact __an.chen25@uga.edu__<br>
 <!--
 **SYNTHDB/SYNTHDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
